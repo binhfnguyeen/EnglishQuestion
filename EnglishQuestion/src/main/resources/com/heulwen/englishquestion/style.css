@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 11, 2025, 11:19:23 PM
+    Author     : Dell
+*/
+
+GridPane{
+    -fx-background-color: lightblue;
+    -fx-padding: 10;
+}
+
+Text.subject{
+    -fx-font-size: 40;
+    -fx-font-weight: Bold;
+    -fx-fill: red;
+    -fx-stroke: gold;
+    -fx-stroke-width: 3;
+}
+
+Button{
+    -fx-background-color: darkblue;
+    -fx-text-fill: white;
+}
+
+HBox{
+    -fx-spacing: 10;
+}
